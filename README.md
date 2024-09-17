@@ -1,3 +1,4 @@
+<body BGCOLOR="BLUEEEEEEEEEEE">
 <html lang="en">
 <body BGCOLOR="BLUEEEEEEEEEEE">
 <head>
@@ -171,5 +172,3 @@
     <A HREF="file:///C:/Users/MINEDUCYT/Documents/HTML%20ARCHIVOS/TAXI%20QUTE%20BAJAJ/index%20(1).html">  A hoja 2  </A> <br>
     
 </body>
-
-</html>`
