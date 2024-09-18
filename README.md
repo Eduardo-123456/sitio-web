@@ -123,49 +123,50 @@
      <source src="1.mp4" type="video/mp4">
        </video>
 
-        <video width="455" height="200" controls>
+        <video width="445" height="300" controls>
         <source src="2.mp4" type="video/mp4">
        </video>
        
-        <video width="455" height="200" controls>
+        <video width="445" height="300" controls>
         <source src="3.mp4" type="video/mp4">
        </video>
        
-        <video width="455" height="200" controls>
+        <video width="445" height="300" controls>
         <source src="4.mp4" type="video/mp4">
        </video>
        
-       <video width="455" height="200" controls>
+       <video width="445" height="300" controls>
        <source src="5.mp4" type="video/mp4">
        </video>
        
-       <video width="455" height="200" controls>
+       <video width="445" height="300" controls>
        <source src="6.mp4" type="video/mp4">
        </video>
        
-       <video width="455" height="200" controls>
+       <video width="445" height="300" controls>
      <source src="1.mp4" type="video/mp4">
        </video>
 
-        <video width="455" height="200" controls>
+        <video width="445" height="300" controls>
         <source src="2.mp4" type="video/mp4">
        </video>
        
-        <video width="455" height="200" controls>
+        <video width="445" height="300" controls>
         <source src="3.mp4" type="video/mp4">
        </video>
        
-        <video width="455" height="200" controls>
+        <video width="445" height="300" controls>
         <source src="4.mp4" type="video/mp4">
        </video>
        
-       <video width="455" height="200" controls>
+       <video width="445" height="300" controls>
        <source src="5.mp4" type="video/mp4">
        </video>
        
-       <video width="455" height="200" controls>
+       <video width="445" height="300" controls>
        <source src="6.mp4" type="video/mp4">
        </video>
+       
     
        <a href="https://www.youtube.com/"> buscar musica youtube  </a> <br> 
     
