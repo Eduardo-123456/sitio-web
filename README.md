@@ -1,4 +1,4 @@
-<body BGCOLOR="BLUEEEEEEEEEEE">
+<body BGCOLOR="BLUE">
 <html lang="en">
 <body BGCOLOR="BLUEEEEEEEEEEE">
 <head>
@@ -101,8 +101,8 @@
   
   <div class="row">`
     <div class="row__column side">
-      <h2>QUE CREES </h2>
-      <p> LA VIDA ES BELLA .</p>
+      <h2>LA VIDA ES BELLA </h2>
+    
     </div>
     <div class="row__column middle">
         <h2>MUSICA</h2>
@@ -119,51 +119,51 @@
   </div>
 
   
-  <video width="400" height="300" controls>
+  <video width="450" height="300" controls>
      <source src="1.mp4" type="video/mp4">
        </video>
 
-        <video width="400" height="300" controls>
+        <video width="450" height="300" controls>
         <source src="2.mp4" type="video/mp4">
        </video>
        
-        <video width="400" height="300" controls>
+        <video width="450" height="300" controls>
         <source src="3.mp4" type="video/mp4">
        </video>
        
-        <video width="400" height="300" controls>
+        <video width="450" height="300" controls>
         <source src="4.mp4" type="video/mp4">
        </video>
        
-       <video width="400" height="300" controls>
+       <video width="450" height="300" controls>
        <source src="5.mp4" type="video/mp4">
        </video>
        
-       <video width="400" height="300" controls>
+       <video width="450" height="300" controls>
        <source src="6.mp4" type="video/mp4">
        </video>
        
-       <video width="400" height="300" controls>
+       <video width="450" height="300" controls>
      <source src="1.mp4" type="video/mp4">
        </video>
 
-        <video width="400" height="300" controls>
+        <video width="450" height="300" controls>
         <source src="2.mp4" type="video/mp4">
        </video>
        
-        <video width="400" height="300" controls>
+        <video width="450" height="300" controls>
         <source src="3.mp4" type="video/mp4">
        </video>
        
-        <video width="400" height="300" controls>
+        <video width="450" height="300" controls>
         <source src="4.mp4" type="video/mp4">
        </video>
        
-       <video width="400" height="300" controls>
+       <video width="450" height="300" controls>
        <source src="5.mp4" type="video/mp4">
        </video>
        
-       <video width="400" height="300" controls>
+       <video width="450" height="300" controls>
        <source src="6.mp4" type="video/mp4">
        </video>
     
